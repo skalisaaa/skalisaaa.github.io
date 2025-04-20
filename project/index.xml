@@ -5,7 +5,7 @@
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Pandas</title>
+      <title>Taking an external Stepik course</title>
       <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This course is suitable for all beginners to gain basic Linux skills, as well as for those who continue to consolidate their existing skills. The course is divided into three parts, each of which provides training and development of certain skills for working with Linux. The course covers in detail all the basics of working with Linux: working with files, directories, writing programs in text editors, etc. I recommend the course, thanks to it I consolidated the acquired skills after completing the Computer Architecture course.&lt;/p&gt;</description>
     </item>
     
     <item>

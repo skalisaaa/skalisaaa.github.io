@@ -5,12 +5,121 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>🎉 Markdown Presentations Text</title>
+      <link>http://localhost:1313/post/%D0%BF%D1%80%D0%B5%D0%B7-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/%D0%BF%D1%80%D0%B5%D0%B7-%D0%BC%D0%B0%D1%80%D0%BA%D0%B4%D0%B0%D1%83%D0%BD/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#markdown-presentations-sleek-slides-without-the-software-bloat&#34;&gt;Markdown Presentations. Sleek Slides Without the Software Bloat&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;markdown-presentations-sleek-slides-without-the-software-bloat&#34;&gt;Markdown Presentations. Sleek Slides Without the Software Bloat&lt;/h2&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;
+&lt;p&gt;In a world dominated by PowerPoint and Google Slides, there&amp;rsquo;s a surprisingly simple and efficient way to create presentations: using Markdown. Yes, the same lightweight markup language you use for writing documentation and blog posts can be leveraged to craft elegant and effective slides. In this post, I&amp;rsquo;ll explore the benefits of Markdown presentations and introduce some popular tools to get you started.&lt;/p&gt;
+&lt;p&gt;Why Markdown for Presentations?&lt;/p&gt;
+&lt;p&gt;•  Simplicity and Readability: Markdown&amp;rsquo;s clean syntax is easy to write, read, and edit. You focus on the content, not the formatting.
+•  Plain Text Power: Markdown files are just plain text, making them incredibly portable and future-proof. No more worrying about file compatibility or proprietary formats.
+•  Version Control Friendly: Because Markdown is text-based, it plays perfectly with Git. Track changes, collaborate easily, and never lose your work.
+•  Fast and Efficient: Markdown is faster to write than using a traditional presentation software. It reduces the cognitive load and allows you to focus on the message.
+•  Themeable and Customizable: Many Markdown presentation tools offer themes and customization options, allowing you to create visually appealing slides.&lt;/p&gt;
+&lt;p&gt;Tools for Markdown Presentations:&lt;/p&gt;
+&lt;p&gt;Several excellent tools are available to convert Markdown into beautiful presentations. Here are a few popular options:&lt;/p&gt;
+&lt;p&gt;•  reveal.js: A free and open-source HTML presentation framework. It&amp;rsquo;s highly customizable and supports advanced features like animations, transitions, and speaker notes. You can write your content in Markdown and then use reveal.js to render it as a slideshow.
+•  Pros: Feature-rich, highly customizable, active community.
+•  Cons: Requires some basic HTML/CSS knowledge for advanced customization.&lt;/p&gt;
+&lt;p&gt;•  Remark.js: Another popular JavaScript library for creating Markdown presentations. It&amp;rsquo;s simple, lightweight, and easy to use.
+•  Pros: Easy to learn, simple syntax, good performance.
+•  Cons: Less customizable than reveal.js.&lt;/p&gt;
+&lt;p&gt;•  Marp (Markdown Presentation Ecosystem): A dedicated tool for creating Markdown presentations. It offers a WYSIWYG editor and supports PDF export.
+•  Pros: Easy to use, visually appealing themes, great for PDF generation.
+•  Cons: Less flexible than reveal.js or Remark.js for interactive presentations.&lt;/p&gt;
+&lt;p&gt;•  Deckset (macOS Only): A commercial application for macOS that makes creating beautiful Markdown presentations a breeze.
+•  Pros: Polished user interface, beautiful themes, easy to use.
+•  Cons: Not free, macOS only.&lt;/p&gt;
+&lt;p&gt;Example Markdown Syntax (for Reveal.js):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# My Presentation Title
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;▌Slide Title
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;•  Bullet point 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;•  Bullet point 2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;▌Image Slide
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Workflow:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; Choose a Tool: Select a Markdown presentation tool that suits your needs and technical skills.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; Write Your Content: Create a Markdown file (.md) containing the content of your presentation. Use headings, lists, images, and other Markdown elements to structure your slides.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;3.&lt;/span&gt; Theme and Customize (Optional): Most tools allow you to apply themes and customize the appearance of your presentation.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;4.&lt;/span&gt; Generate the Presentation: Use the tool to convert your Markdown file into a slideshow. This typically involves running a command-line tool or opening the file in a specific application.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;5.&lt;/span&gt; Present! Open the generated slideshow in your browser or presentation software and deliver your presentation.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Conclusion:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Markdown presentations offer a refreshing alternative to traditional presentation software. They&amp;#39;re simple, efficient, and version control friendly. Give them a try and experience the power of plain text for your next presentation! What are your favorite tools for creating Markdown presentations? Share your thoughts in the comments below!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>🎉 Week in Review. April 13th, 2025 - April 20th, 2025</title>
+      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%8220.04/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%8220.04/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h1 id=&#34;week-in-review-april-13th-2025---april-20th-2025&#34;&gt;Week in Review. April 13th, 2025 - April 20th, 2025&lt;/h1&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;
+&lt;p&gt;Hello everyone! Time for another weekly update. This post summarizes my key activities, learnings, and reflections from the past week (April 13th - April 20th). It&amp;rsquo;s a great way to keep track of progress, identify areas for improvement, and share what I&amp;rsquo;ve been up to.&lt;/p&gt;
+&lt;p&gt;Key Accomplishments/Highlights:&lt;/p&gt;
+&lt;p&gt;•  Project Milestone: Successfully completed the initial design phase for the &amp;ldquo;Starlight&amp;rdquo; project. We presented the mockups to the client and received positive feedback. Next steps are to begin development.
+•  Learned a New Skill: Spent time learning the basics of Docker. Completed an online course and started experimenting with small projects.
+•  Solved a Challenging Bug: Debugged a particularly tricky issue in the &amp;ldquo;Cosmos API&amp;rdquo;. The root cause was a race condition in the database update logic. After thorough analysis and testing, I implemented a locking mechanism to resolve the issue.
+•  Improved Efficiency: Streamlined my workflow by implementing &amp;ldquo;Keyboard Maestro&amp;rdquo; macros. Found that it significantly improved my focus and productivity.&lt;/p&gt;
+&lt;p&gt;Challenges/Setbacks:&lt;/p&gt;
+&lt;p&gt;•  Unexpected Delay: Experienced an unexpected delay in receiving feedback from a colleague on the &amp;ldquo;Integration Document&amp;rdquo;. This impacted my schedule for &amp;ldquo;API Testing&amp;rdquo;.
+•  Technical Difficulty: Ran into some technical difficulties with &amp;ldquo;Cloud Functions deployment scripts&amp;rdquo;. Spent more time troubleshooting than anticipated.&lt;/p&gt;
+&lt;p&gt;Learnings/Insights:&lt;/p&gt;
+&lt;p&gt;•  Importance of Clear Communication: The delay in feedback highlighted the importance of proactively communicating with team members and setting clear expectations by sending a reminder email early in the week, rather than closer to the deadline.
+•  The Value of Documentation: Spending time reading the documentation for &amp;ldquo;Kubernetes&amp;rdquo; saved me a significant amount of time in the long run and avoided potentially costly misconfigurations.&lt;/p&gt;
+&lt;p&gt;Goals for Next Week:&lt;/p&gt;
+&lt;p&gt;•  Begin Development on &amp;ldquo;Starlight&amp;rdquo;: Start implementing the designs for the &amp;ldquo;Starlight&amp;rdquo; project, focusing on the user authentication module.
+•  Continue Learning Docker: Deepen my understanding of Docker by building a multi-container application.
+•  Reach out to Maria for Feedback: Follow up with Maria to ensure timely feedback on the &amp;ldquo;Integration Document&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Conclusion:&lt;/p&gt;
+&lt;p&gt;Overall, it was a productive week with its share of challenges and successes. I&amp;rsquo;m looking forward to tackling next week&amp;rsquo;s goals and continuing to learn and grow. Thanks for reading! What were your highlights from the past week? Share them in the comments below!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>🎉 Last week 2</title>
@@ -86,6 +195,80 @@
 &lt;p&gt;This week I watched new episodes of several series, I won&amp;rsquo;t talk about all of them, although I would like to mention one series. The series &amp;ldquo;Univer. Young&amp;rdquo; was recently released. It&amp;rsquo;s something like a continuation of the old &amp;ldquo;Univer&amp;rdquo;. But in fact, this new season is far from being as funny, and it feels like the writers have forgotten how to joke. It was better before!&lt;/p&gt;
 &lt;h2 id=&#34;something-else&#34;&gt;Something else.&lt;/h2&gt;
 &lt;p&gt;I need to pass my exams early, and to do that I need the consent of all the teachers. It turns out that it&amp;rsquo;s quite a quest to find everyone and ask them to sign. I didn&amp;rsquo;t manage to do it completely this week, so I&amp;rsquo;ll continue next week. I hope that it won&amp;rsquo;t turn out that my application was written incorrectly!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 Markdown. The Simple and Powerful Way to Format Your Text</title>
+      <link>http://localhost:1313/post/get-started-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/get-started-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#markdown-the-simple-and-powerful-way-to-format-your-text&#34;&gt;Markdown: The Simple and Powerful Way to Format Your Text&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;markdown-the-simple-and-powerful-way-to-format-your-text&#34;&gt;Markdown: The Simple and Powerful Way to Format Your Text&lt;/h2&gt;
+&lt;p&gt;In today&amp;rsquo;s digital world, we&amp;rsquo;re constantly writing and sharing text online. Whether it&amp;rsquo;s crafting emails, writing blog posts, documenting code, or contributing to online forums, the need for a simple and efficient way to format text is paramount. Enter Markdown, a lightweight markup language that&amp;rsquo;s become a favorite among writers, developers, and anyone who wants to create beautifully formatted content with minimal effort.&lt;/p&gt;
+&lt;p&gt;What is Markdown?&lt;/p&gt;
+&lt;p&gt;Markdown is a text-to-HTML conversion tool for web writers. It allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). The beauty of Markdown lies in its simplicity. Instead of complex HTML tags, you use simple symbols to format your text.&lt;/p&gt;
+&lt;p&gt;Why Use Markdown?&lt;/p&gt;
+&lt;p&gt;•   Readability: Markdown files are incredibly easy to read in their raw form. The formatting is intuitive and doesn&amp;rsquo;t distract from the content.
+•   Simplicity: Markdown is easy to learn and use. The syntax is minimal and straightforward. You can become proficient in Markdown in minutes.
+•   Portability: Markdown is plain text, which means it can be opened and edited in any text editor. It&amp;rsquo;s also easily converted to HTML, PDF, and other formats.
+•   Efficiency: Markdown allows you to focus on writing rather than wrestling with complex formatting tools.
+•   Versatility: Markdown is used in a wide range of applications, including:
+*   Writing: Blog posts, articles, documentation.
+*   Communication: Emails, forum posts, chat messages.
+*   Documentation: README files, technical manuals, API documentation.
+*   Note-taking: Personal notes, project planning, meeting minutes.
+*   Presentations: Creating slideshows.&lt;/p&gt;
+&lt;p&gt;Basic Markdown Syntax:&lt;/p&gt;
+&lt;p&gt;Here are some of the most common Markdown elements:&lt;/p&gt;
+&lt;p&gt;•   Headings:
+*   # Heading 1
+*   ## Heading 2
+*   ### Heading 3
+•   Emphasis:
+*   &lt;em&gt;Italic&lt;/em&gt; or &lt;em&gt;Italic&lt;/em&gt;
+*   &lt;em&gt;Bold&lt;/em&gt; or &lt;strong&gt;Bold&lt;/strong&gt;
+•   Lists:
+*   Unordered Lists:
+*   * Item 1
+*   * Item 2
+*   Ordered Lists:
+*   1. Item 1
+*   2. Item 2
+•   Links:
+*   &lt;a href=&#34;https://www.example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link text&lt;/a&gt;
+•   Images:
+*
+&lt;code&gt;•  Code: •  Inline code is surrounded by backticks (``&lt;/code&gt; ``).
+•  Code Blocks:
+*  &lt;code&gt;code block&lt;/code&gt;
+•  Blockquotes:
+•  &amp;gt; This is a blockquote.
+•  Horizontal Rule:
+•  &amp;mdash;&lt;/p&gt;
+&lt;p&gt;Getting Started with Markdown:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Choose a Text Editor: Any text editor will work, but some editors offer Markdown-specific features like syntax highlighting and previewing. Popular options include VS Code, Sublime Text, Atom, and Typora.&lt;/li&gt;
+&lt;li&gt;Create a Markdown File: Save your file with the .md or .markdown extension.&lt;/li&gt;
+&lt;li&gt;Start Writing: Use the Markdown syntax to format your text.&lt;/li&gt;
+&lt;li&gt;Preview and Convert: Use a Markdown editor or converter to preview your formatted text and convert it to HTML, PDF, or other desired formats.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Conclusion:&lt;/p&gt;
+&lt;p&gt;Markdown is a powerful and versatile tool that simplifies the process of formatting text. Its readability, simplicity, and portability make it an excellent choice for a wide range of writing and documentation tasks. If you&amp;rsquo;re looking for a more efficient and enjoyable way to create formatted content, give Markdown a try. You might be surprised at how much it can streamline your workflow!&lt;/p&gt;
 </description>
     </item>
     
