@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stepik | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/ru/tags/stepik/</link>
+      <atom:link href="http://localhost:1313/ru/tags/stepik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stepik</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Stepik</title>
+      <link>http://localhost:1313/ru/tags/stepik/</link>
+    </image>
+    
+    <item>
+      <title>Внешний курс Stepik</title>
+      <link>http://localhost:1313/ru/project/stepik/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/stepik/</guid>
+      <description>&lt;p&gt;Данный курс подойдет всем начинающим для получения базовых навыков работы с Linux, а также тем, кто продолжает закреплять имеющиеся навыки. Курс разделен на три части, каждая из которых предусматривает обучение и развитие определенных навыков работы с Linux. На курсе подробно рассматриваются все основы работы с Linux: работа с файлами, каталогами, написание программ в текстовых редакторах и т. д. Рекомендую курс, благодаря ему я закрепил полученные навыки после прохождения курса «Архитектура компьютера».&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

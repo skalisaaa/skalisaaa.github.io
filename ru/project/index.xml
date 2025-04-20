@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/ru/project/</link>
+      <atom:link href="http://localhost:1313/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Внешний курс Stepik</title>
+      <link>http://localhost:1313/ru/project/stepik/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/stepik/</guid>
+      <description>&lt;p&gt;Данный курс подойдет всем начинающим для получения базовых навыков работы с Linux, а также тем, кто продолжает закреплять имеющиеся навыки. Курс разделен на три части, каждая из которых предусматривает обучение и развитие определенных навыков работы с Linux. На курсе подробно рассматриваются все основы работы с Linux: работа с файлами, каталогами, написание программ в текстовых редакторах и т. д. Рекомендую курс, благодаря ему я закрепил полученные навыки после прохождения курса «Архитектура компьютера».&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Операционные системы</title>
+      <link>http://localhost:1313/ru/project/os/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/os/</guid>
+      <description>&lt;p&gt;Мой репозиторий в Github с файлами всех лабораторных работ по предмету &amp;ldquo;Операционные системы&amp;rdquo;, изучаемого во 2 семестре.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Персональный сайт научного работника</title>
+      <link>http://localhost:1313/ru/project/hugo/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/hugo/</guid>
+      <description>&lt;p&gt;Мой репозиторий blog, в котором хранятся все файлы, с помощью которого я создала свой персональный сайт.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Архитектура компьютеров</title>
+      <link>http://localhost:1313/ru/project/arch-pc/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/arch-pc/</guid>
+      <description>&lt;p&gt;Мой репозиторий в Github с файлами всех лабораторных работ по предмету &amp;ldquo;Архитектура компьютеров&amp;rdquo;, изучаемого в 1-ом семестре.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,27 +13,35 @@
     </image>
     
     <item>
-      <title>Taking an external Stepik course</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <title>Os</title>
+      <link>http://localhost:1313/project/os/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
+      <guid>http://localhost:1313/project/os/</guid>
+      <description>&lt;p&gt;My repository with completed labaratory works on the subject of &amp;ldquo;Operating Systems&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Personal website of a researcher</title>
+      <link>http://localhost:1313/project/hugo/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/hugo/</guid>
+      <description>&lt;p&gt;My blog repository where I store all the files I used to create my personal website.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stepik course</title>
+      <link>http://localhost:1313/project/stepik/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/stepik/</guid>
       <description>&lt;p&gt;This course is suitable for all beginners to gain basic Linux skills, as well as for those who continue to consolidate their existing skills. The course is divided into three parts, each of which provides training and development of certain skills for working with Linux. The course covers in detail all the basics of working with Linux: working with files, directories, writing programs in text editors, etc. I recommend the course, thanks to it I consolidated the acquired skills after completing the Computer Architecture course.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Arch-pc</title>
+      <link>http://localhost:1313/project/arch-pc/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/arch-pc/</guid>
+      <description>&lt;p&gt;My repository with completed laboratory work on the subject of &amp;ldquo;Computer Architecture&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
   </channel>

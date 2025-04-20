@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labs | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/ru/tags/labs/</link>
+      <atom:link href="http://localhost:1313/ru/tags/labs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Labs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Labs</title>
+      <link>http://localhost:1313/ru/tags/labs/</link>
+    </image>
+    
+    <item>
+      <title>Архитектура компьютеров</title>
+      <link>http://localhost:1313/ru/project/arch-pc/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/arch-pc/</guid>
+      <description>&lt;p&gt;Мой репозиторий в Github с файлами всех лабораторных работ по предмету &amp;ldquo;Архитектура компьютеров&amp;rdquo;, изучаемого в 1-ом семестре.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
